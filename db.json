@@ -1,5 +1,7 @@
- [
-    { "deviceId": "big-test-01", "description": "Test 1" },
-    { "deviceId": "big-test-02", "description": "Test 2" },
-    { "deviceId": "big-test-03", "description": "Test 3" }
-]
+{
+    "deivces": [
+      { "deviceId": "big-test-01", "description": "Test 1" },
+      { "deviceId": "big-test-02", "description": "Test 2" },
+      { "deviceId": "big-test-03", "description": "Test 3" }
+    ]
+}
